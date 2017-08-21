@@ -1,2 +1,4 @@
 # hello-world
-firts try
+
+New here, feeling home already!
+See you on interesting projects...
